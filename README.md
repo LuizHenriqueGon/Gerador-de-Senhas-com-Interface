@@ -31,21 +31,3 @@ O projeto foi construído utilizando as seguintes tecnologias:
 * **Gestão de UI:** `javax.swing.JFrame`, `JPanel`, `JButton`, `JCheckBox`, `JSpinner`
 * **Clipboard API:** `java.awt.datatransfer`
 
-## 🏃‍♂️ Como Executar
-
-Existem duas formas de executar o projeto:
-
-**1. Via Linha de Comando:**
-
-```bash
-# Clone o repositório (substitua pela URL do seu repo)
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-
-# Navegue até o diretório
-cd seu-repositorio
-
-# Compile o arquivo .java
-javac GeradorSenhas.java
-
-# Execute o programa
-java GeradorSenhas
